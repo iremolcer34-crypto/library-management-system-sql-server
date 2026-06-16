@@ -6,7 +6,7 @@ A Library Management System developed using Microsoft SQL Server.
 
 - Member Management
 - Book Management
-- Loan and Return Operations
+-Loan and Return Operations
 - Penalty Tracking
 - Audit Logging
 - Role Based Authorization
